@@ -1,0 +1,42 @@
+name: washee
+description: A car wash service app.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.5
+  provider: ^6.0.5
+  intl: ^0.18.1
+  shared_preferences: ^2.2.0
+  http: ^1.1.0
+  flutter_svg: ^2.0.7
+  cached_network_image: ^3.2.3
+  url_launcher: ^6.1.12
+  
+  # Firebase
+  firebase_core: ^2.15.0
+  firebase_auth: ^4.7.2
+  firebase_database: ^10.2.4
+  firebase_storage: ^11.2.5
+  cloud_firestore: ^4.8.4
+  google_sign_in: ^6.1.4
+  firebase_messaging: ^14.6.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.2
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1010656295261",
+    "firebase_url": "https://the-washee-fac0e-default-rtdb.firebaseio.com",
+    "project_id": "the-washee-fac0e",
+    "storage_bucket": "the-washee-fac0e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010656295261:android:d81780eeefbaa90cd610b4",
+        "android_client_info": {
+          "package_name": "com.flutterflow.homeU"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010656295261-cg3j38bgmv0os1vpdai3eaor33ce1l8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD97b2tl3PQU0PcIoOT-TCYOwG0V_x7ZHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010656295261-cg3j38bgmv0os1vpdai3eaor33ce1l8g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1010656295261-1dkbil2ma58hosoe0m4152lsp3of62qs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.homeU"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
